@@ -1,5 +1,5 @@
-CREATE DATABASE  IF NOT EXISTS `gbm`;
-USE `gbm`;
+CREATE DATABASE  IF NOT EXISTS `n0dn5hq98tvex0gs`;
+USE `n0dn5hq98tvex0gs`;
 
 
 CREATE TABLE IF NOT EXISTS `hibernate_sequence` (
@@ -116,7 +116,7 @@ CREATE TABLE IF NOT EXISTS `user` (
   PRIMARY KEY (`user_id`),
   UNIQUE KEY `UKuser_email` (`email`),
   UNIQUE KEY `UKuser_login_attempt` (`attempt_id`),
-  KEY `FKuser_login_attempt_id`(`attempt_id`) 
+  KEY `FKuser_login_attempt_id`(`attempt_id`)
 );
 
 
