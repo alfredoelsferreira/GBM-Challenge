@@ -1,5 +1,5 @@
-CREATE DATABASE  IF NOT EXISTS `ui8y1kxcqib424pw`;
-USE `ui8y1kxcqib424pw`;
+CREATE DATABASE  IF NOT EXISTS `s0o1ayy2p3viar3d`;
+USE `s0o1ayy2p3viar3d`;
 
 
 CREATE TABLE IF NOT EXISTS `hibernate_sequence` (
